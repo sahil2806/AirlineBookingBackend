@@ -1,0 +1,14 @@
+ApiGateway/node_modules/
+ApiGateway/.env
+
+AuthService/node_modules/
+AuthService/.env
+
+BookingService/node_modules/
+BookingService/.env
+
+FlightAndSearch/node_modules/
+FlightAndSearch/.env
+
+ReminderService/node_modules/
+ReminderService/.env
